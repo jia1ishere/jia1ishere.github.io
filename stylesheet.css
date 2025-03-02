@@ -1,5 +1,6 @@
 p {
     color :burlywood;
+    text-align: center;
 }
 
 .background {
@@ -43,4 +44,5 @@ p {
     object-fit: contain;
     border-radius: 30px;
     margin: 10px;
+    text-align: center;
 }
