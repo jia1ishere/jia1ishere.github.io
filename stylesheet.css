@@ -1,0 +1,37 @@
+p {
+    color :burlywood;
+}
+
+.background {
+    background-color: darkgrey;
+    margin : 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+#welcome {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content{
+    color: black;
+    background-color: antiquewhite;
+}
+
+.header{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: brown;
+    text-decoration: underline;
+}
